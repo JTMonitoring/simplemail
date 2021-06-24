@@ -1,0 +1,2 @@
+# simplemail
+Simple Email Python
